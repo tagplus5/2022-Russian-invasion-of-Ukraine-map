@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "name": "2022-07-19",
+    "name": "2022-07-18",
     "crs": {
         "type": "name",
         "properties": {
@@ -18679,8 +18679,8 @@
                 "stroke": "#ce4631",
                 "stroke-width": 0,
                 "label": "Russisches Vormarschgebiet",
-                "layer": "2022-07-19",
-                "path": "2022-07-19.geojson"
+                "layer": "2022-07-18",
+                "path": "2022-07-18.geojson"
             },
             "geometry": {
                 "type": "MultiPolygon",
